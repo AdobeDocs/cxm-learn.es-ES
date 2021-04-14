@@ -1,17 +1,17 @@
 ---
-title: Información y aprendizaje de DDOM
-description: 'Conozca algunas de las perspectivas que DDOM ayudó a que el Adobe descubriera y aprenda más sobre algunas de las consideraciones a tener en cuenta al configurar su propia versión de DDOM. '
-translation-type: tm+mt
+title: Ideas y enseñanzas de DDOM
+description: 'Escuche algunas ideas que Adobe ha descubierto gracias a DDOM y obtenga más información sobre lo que debe tener en cuenta al configurar su propia versión de DDOM. '
+translation-type: ht
 source-git-commit: add4209576cc04e99ec15e39d40706a852f91af4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '64'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Información y aprendizaje de DDOM
+# Ideas y enseñanzas de DDOM
 
-Conozca algunas de las perspectivas que DDOM ayudó a que el Adobe descubriera y aprenda más sobre algunas de las consideraciones a tener en cuenta al configurar su propia versión de DDOM.
+Escuche algunas ideas que Adobe ha descubierto gracias a DDOM y obtenga más información sobre lo que debe tener en cuenta al configurar su propia versión de DDOM.
 
 >[!VIDEO](https://video.tv.adobe.com/v/41693)
