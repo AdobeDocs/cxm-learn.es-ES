@@ -1,17 +1,17 @@
 ---
-title: Tres pilares principales del DDOM
-description: 'Profundizar en los tres pilares principales de DDOM (Datos, KPI y Proceso/Organización). '
-translation-type: tm+mt
+title: Los tres pilares de DDOM
+description: 'Descubra todo sobre los tres pilares de DDOM (Datos, KPI y Procesos/organización). '
+translation-type: ht
 source-git-commit: add4209576cc04e99ec15e39d40706a852f91af4
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '40'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Tres pilares principales del DDOM
+# Los tres pilares de DDOM
 
-Profundizar en los tres pilares principales de DDOM (Datos, KPI y Proceso/Organización).
+Descubra todo sobre los tres pilares de DDOM (Datos, KPI y Procesos/organización).
 
 >[!VIDEO](https://video.tv.adobe.com/v/41692)
