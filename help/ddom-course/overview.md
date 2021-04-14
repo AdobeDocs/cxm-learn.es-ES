@@ -1,24 +1,24 @@
 ---
-title: Modelo operativo impulsado por datos de Adobe
-description: Esta es la descripción general del artículo.
+title: Modelo operativo impulsado por datos (DDOM) de Adobe
+description: Este es el resumen del artículo.
 keywords: DDOM, transformación digital
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: a3efa696f0c4172ce04101b538d47a761f4fe41e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '69'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Modelo operativo impulsado por datos de Adobe (DDOM)
+# Modelo operativo impulsado por datos (DDOM) de Adobe
 
-Le damos la bienvenida a una descripción general del Modelo operativo impulsado por datos de Adobe (DDOM). En este curso, aprenderá del [!DNL Adobe Digital Strategy Group] acerca de la historia de transformación digital del Adobe, los tres pilares principales de DDOM y las perspectivas de muestra descubiertas por DDOM.
+Bienvenido al resumen del Modelo operativo impulsado por datos (DDOM) de Adobe. En este curso aprenderá, de la mano del [!DNL Adobe Digital Strategy Group], la historia de la transformación digital de Adobe y los tres pilares de DDOM, y verá algunas muestras de las ideas puestas al descubierto por DDOM.
 
-* [Introducción a DDOM](ddom-introduction.md)
-* [Historia de transformación digital de Adobe](transformation-story.md)
-* [Los tres pilares principales de DDOM](ddom-components.md)
-* [Información descubierta por DDOM](ddom-insights.md)
+* [Introducción al DDOM](ddom-introduction.md)
+* [Historia sobre la transformación digital de Adobe](transformation-story.md)
+* [Los tres pilares de DDOM](ddom-components.md)
+* [Ideas puestas al descubierto por DDOM](ddom-insights.md)
 
 <!--
 This is the landing page of the user guide. It should be the first list item in the TOC.md file.
