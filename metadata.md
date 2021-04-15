@@ -8,7 +8,7 @@ translation-type: tm+mt
 source-git-commit: 099879553b7fbdcfb4d0491f00c23b7e19241998
 workflow-type: tm+mt
 source-wordcount: '130'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -17,11 +17,11 @@ ht-degree: 93%
 
 El archivo metadata.md incluye metadatos de nivel de repositorio que pasan a los archivos TOC.md de la guía del usuario en el repositorio. Si desea cambiar el contenido del archivo metadata.md para cualquier guía del usuario, hágalo en cualquier archivo TOC.md.
 
-| metadatos | Función |
+| metadatos | función |
 |--- |--- |
 | solution-title | Se utiliza en el encabezado del artículo como vínculo. |
-| solution-hub-url | Abre la página del concentrador de la ayuda. |
-| solution-icon | Muestra el icono de la solución junto al título de la solución. No implementado aún. |
+| solution-hub-url | Abre la página del centro de ayuda. |
+| solution-icon | Muestra el icono de la solución junto al título de la solución. No se ha implementado aún. |
 | getting-started-url | Vínculo a la página de introducción de la ayuda. |
 | tutorials-url | Vínculo a tutoriales de vídeo: tutoriales de ayuda o tutoriales de KT. |
 | mini-toc-levels | Determina el número de niveles de encabezado que aparecen en el carril derecho. El valor predeterminado es 2. |
@@ -29,7 +29,7 @@ El archivo metadata.md incluye metadatos de nivel de repositorio que pasan a los
 
 En el archivo TOC.md
 
-| metadatos | Función |
+| metadatos | función |
 |--- |--- |
 | user-guide-title | Se utiliza en el encabezado del artículo como vínculo. |
-| user-guide-url | Abre la página del concentrador de la ayuda. |
+| user-guide-url | Abre la página del centro de ayuda. |
