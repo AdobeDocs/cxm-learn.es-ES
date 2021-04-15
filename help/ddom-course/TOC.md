@@ -1,23 +1,23 @@
 ---
-user-guide-title: Guía del modelo operativo impulsado por datos de Adobe
-breadcrumb-title: Guía del modelo operativo impulsado por datos
-user-guide-description: Vea estos vídeos para aprender a utilizar el modelo operativo impulsado por datos de Adobe.
+user-guide-title: Guía del Modelo operativo impulsado por datos (DDOM) de Adobe
+breadcrumb-title: Guía del Modelo operativo impulsado por datos (DDOM)
+user-guide-description: En estos vídeos aprenderá a utilizar el Modelo operativo impulsado por datos (DDOM).
 solution: Experience Cloud
 type: Tutorial
 hide: true
 translation-type: tm+mt
 source-git-commit: 099879553b7fbdcfb4d0491f00c23b7e19241998
 workflow-type: tm+mt
-source-wordcount: '43'
-ht-degree: 0%
+source-wordcount: '42'
+ht-degree: 100%
 
 ---
 
 
-# Guía del modelo operativo impulsado por datos de Adobe {#ddom}
+# Guía del Modelo operativo impulsado por datos (DDOM) de Adobe {#ddom}
 
-+ [Información general](overview.md)
-+ [Introducción a DDOM](ddom-introduction.md)
-+ [Historia de transformación digital de Adobe](transformation-story.md)
-+ [Los tres pilares principales de DDOM](ddom-components.md)
-+ [Información descubierta por DDOM](ddom-insights.md)
++ [Resumen](overview.md)
++ [Introducción al DDOM](ddom-introduction.md)
++ [Historia sobre la transformación digital de Adobe](transformation-story.md)
++ [Los tres pilares de DDOM](ddom-components.md)
++ [Ideas puestas al descubierto por DDOM](ddom-insights.md)
