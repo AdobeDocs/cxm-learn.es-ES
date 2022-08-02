@@ -5,9 +5,8 @@ user-guide-description: En estos vídeos aprenderá a utilizar la capacidad de e
 solution: Experience Cloud
 type: Tutorial
 hide: true
-translation-type: tm+mt
 source-git-commit: 099879553b7fbdcfb4d0491f00c23b7e19241998
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '16'
 ht-degree: 100%
 
@@ -16,4 +15,4 @@ ht-degree: 100%
 
 # Guía de la capacidad de envío {#deliverability}
 
-+ [Resumen](overview.md)
++ [Información general](overview.md)
