@@ -1,14 +1,13 @@
 ---
-source-git-commit: ea774529b25ecca51d3eabce9884df283c38fc24
-workflow-type: ht
-translation-type: ht
-source-wordcount: '296'
-ht-degree: 100%
+source-git-commit: c864b410a9e7d9f428cdcc889ffe7d58b9c4f35b
+workflow-type: tm+mt
+source-wordcount: '294'
+ht-degree: 97%
 
 ---
 # Contribución
 
-¡Gracias por contribuir!
+Gracias por su contribución.
 
 A continuación, detallamos una serie de directrices que deben seguirse al contribuir a este proyecto.
 
@@ -16,9 +15,9 @@ A continuación, detallamos una serie de directrices que deben seguirse al contr
 
 Este proyecto se adhiere al [código de conducta](code-of-conduct.md) de Adobe. Al participar, esperamos que usted cumpla con este código. Póngase en contacto con nosotros a través de la dirección [Grp-opensourceoffice@adobe.com](mailto:Grp-opensourceoffice@adobe.com) si ve comportamientos no aceptables.
 
-## Documentación de la Guía de colaborador
+## Documentación de la guía del colaborador
 
-Consulte la [Guía de colaborador](https://docs.adobe.com/content/help/es/contributor/contributor-guide/introduction.html).
+Consultar la [Guía del colaborador](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html).
 
 ## ¿Tiene preguntas?
 
@@ -39,7 +38,7 @@ submitting a pull request!
 
 ## De colaborador a miembro
 
-¡Nos encanta que nuestra comunidad envíe contribuciones! Si quiere ser más que un colaborador y convertirse en miembro con acceso de escritura completa y tener voz en el proyecto, debe obtener una invitación al proyecto. Los miembros siguen un proceso de nominación interna que debe alcanzar un consenso muy general (el silencio significa aprobación) antes de que se emitan las invitaciones. Si cree que cuenta con la cualificación apropiada y quiere involucrarse más profundamente, no dude en ponerse en contacto con los miembros existentes para tratar este asunto con ellos.
+Nos encanta que nuestra comunidad envíe contribuciones. Si quiere ser más que un colaborador y convertirse en committer, con acceso de escritura completa y tener voz en el proyecto, debe obtener una invitación al proyecto. Los miembros siguen un proceso de nominación interna que debe alcanzar un consenso muy general (el silencio significa aprobación) antes de que se emitan las invitaciones. Si cree que cuenta con la cualificación apropiada y quiere involucrarse más profundamente, no dude en ponerse en contacto con los miembros existentes para tratar este asunto con ellos.
 
 ## Problemas de seguridad
 

@@ -1,14 +1,13 @@
 ---
-source-git-commit: 5b7003822348e0bf678ac65036d58b4ec3f65c0f
-workflow-type: ht
-translation-type: ht
-source-wordcount: '430'
-ht-degree: 100%
+source-git-commit: c864b410a9e7d9f428cdcc889ffe7d58b9c4f35b
+workflow-type: tm+mt
+source-wordcount: '424'
+ht-degree: 95%
 
 ---
 # Artículo de colaboración
 
-Aceptamos contribuciones de la comunidad, así como las de los empleados de Adobe que no pertenezcan a los equipos de documentación.
+Aceptamos contribuciones de la comunidad, así como de empleados de Adobe que no pertenezcan a los equipos de documentación.
 
 ## Código de conducta de código abierto de Adobe
 
@@ -16,25 +15,25 @@ Este proyecto ha adoptado el [Código de conducta de código abierto de Adobe](c
 
 ## Acerca de sus contribuciones al contenido de Adobe
 
-Consulte la [Guía de colaborador para la documentación de Adobe](https://docs.adobe.com/content/help/es/contributor/contributor-guide/introduction.html).
+Consulte la [Guía del colaborador para la documentación de Adobe](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html).
 
 Su contribución dependerá de quién es y de qué clase de cambios desea implementar:
 
 ### Cambios menores
 
-Si contribuye con pequeñas actualizaciones por pura bondad, visite al artículo y haga clic en el vínculo **Editar**. Se le redirigirá al artículo original de GitHub. Una vez allí, simplemente utilice la interfaz de usuario de GitHub para implementar las actualizaciones. Consulte la [Guía de colaborador para la documentación de Adobe](https://docs.adobe.com/content/help/es/contributor/contributor-guide/introduction.html) general para obtener más información.
+Si contribuye con pequeñas actualizaciones por pura bondad, visite al artículo y haga clic en el enlace **Editar** para acceder al artículo original de GitHub. Una vez allí, simplemente utilice la interfaz de usuario de GitHub para implementar las actualizaciones. Consulte la [Guía del colaborador para la documentación de Adobe](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html) general para obtener más información.
 
 Las pequeñas aclaraciones y correcciones que envíe como documentación o ejemplo de códigos en este repositorio se incluyen en las Condiciones de uso de Adobe.
 
 ### Cambios mayores o nuevos artículos de los miembros de la comunidad
 
-Si forma parte de la comunidad Adobe y quiere crear un artículo nuevo o enviar modificaciones importantes, utilice la pestaña Issues del repositorio Git para enviar el problema e iniciar un diálogo con el equipo de documentación. Cuando hayan llegado a un acuerdo sobre el plan, tendrá que colaborar con un empleado que le ayude a introducir el nuevo contenido a través de la edición de los repositorios público y privado.
+Si forma parte de la comunidad de Adobe y quiere crear un artículo nuevo o enviar modificaciones importantes, utilice la pestaña Issues del repositorio de Git para enviar el problema e iniciar un diálogo con el equipo de documentación. Cuando hayan llegado a un acuerdo sobre el plan, tendrá que colaborar con un empleado que le ayudará a introducir el nuevo contenido editando los repositorios público y privado.
 
 <!--
 If you submit a pull request with significant changes to documentation and code examples, you'll see a message in the pull request asking you to submit an online contribution license agreement (CLA). We need you to complete the online form before we can review your pull request.
 -->
 
-### Cambios mayores realizados por empleados de Adobe
+### Cambios mayores de los empleados de Adobe
 
 Si es escritor técnico, administrador de programas o desarrollador del equipo de productos de alguna solución de Adobe Experience Cloud, y parte de su trabajo es contribuir o incluso generar artículos técnicos, deberá utilizar el repositorio privado de `https://git.corp.adobe.com/AdobeDocs`.
 
@@ -44,18 +43,18 @@ Si es escritor técnico, administrador de programas o desarrollador del equipo d
 
 Los colaboradores de la comunidad pueden utilizar la interfaz de usuario de GitHub tanto para ediciones básicas como ramificar el repositorio para implementar colaboraciones importantes.
 
-Consulte la [Guía de colaborador para la documentación de Adobe](https://docs.adobe.com/content/help/es/contributor/contributor-guide/introduction.html) para obtener más información.
+Consulte la [Guía del colaborador para la documentación de Adobe](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html) para obtener más información.
 
-## Cómo utilizar Markdown para dar formato al tema
+## Uso de Markdown para dar formato al tema
 
 Todos los artículos de este repositorio utilizan Markdown al estilo GitHub. Si no está familiarizado con Markdown, consulte estas secciones:
 
-* [Aspectos básicos de Markdown](https://help.github.com/articles/getting-started-with-writing-and-formatting-on-github/)
+* [Aspectos básicos de Markdown](https://docs.github.com/es/github/writing-on-github/getting-started-with-writing-and-formatting-on-github)
 * [Hoja de referencia imprimible de Markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 
 ## Etiquetas
 
-En el repositorio público, las etiquetas automáticas se asignan para recibir solicitudes &quot;pull&quot; que nos ayuden a administrar el flujo de trabajo de estas solicitudes &quot;pull&quot; y para ayudarle a saber qué está pasando con su solicitud &quot;pull&quot;.
+En el repositorio público, las etiquetas automáticas se asignan para recibir solicitudes (pull request) que nos ayuden a administrar el flujo de trabajo de estas solicitudes &quot;pull&quot; y para ayudarle a saber qué está pasando con su solicitud &quot;pull&quot;.
 
 * **Change sent to author**: se ha notificado al autor sobre la solicitud &quot;pull&quot; pendiente.
-* **ready-to-merge**: listo para que sea revisado por nuestro equipo de revisión de solicitudes &quot;pull&quot;.
+* **ready-to-merge**: todo está listo para que lo revise nuestro equipo de revisión de solicitudes &quot;pull&quot;.
